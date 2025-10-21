@@ -1,11 +1,12 @@
 <h1 align="center"> 🇭🇺Üdvözöljük utasainkat! 🇬🇧Welcome onboard! </h1>
 <p align=center> my field of abandoned, half-abandoned and (rarely) active projects </p>
 
-<a><img width="430" align="right" alt="githubprofile" src="https://github.com/user-attachments/assets/8090f038-cce0-473b-bf9a-0df3a65b3a3b" /></a>
+<a><img width="435" align="right" alt="githubprofile" src="https://github.com/user-attachments/assets/8090f038-cce0-473b-bf9a-0df3a65b3a3b" /></a>
 ### About me: <br />
 - absolute autism 🙌 <br />
 - queer af 🏳️‍🌈 <br />
 - bilingual 🇭🇺🇬🇧 <br />
+- playlist : <a href="https://music.youtube.com/playlist?list=PLqQLL30fMAiJTPRAffy9QQlyhy_Asbeas&si=9S5XuW1sgDQuZ1V9">here</a>
 
 ### Interested in: <br />
 - public transport 🚊 <br />
