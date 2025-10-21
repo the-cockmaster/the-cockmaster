@@ -6,7 +6,7 @@
 - absolute autism 🙌 <br />
 - queer af 🏳️‍🌈 <br />
 - bilingual 🇭🇺🇬🇧 <br />
-- playlist : <a href="https://music.youtube.com/playlist?list=PLqQLL30fMAiJTPRAffy9QQlyhy_Asbeas&si=9S5XuW1sgDQuZ1V9">here</a>
+- playlist : <a href="https://music.youtube.com/playlist?list=PLqQLL30fMAiJTPRAffy9QQlyhy_Asbeas&si=9S5XuW1sgDQuZ1V9">here</a> 🎧
 
 ### Interested in: <br />
 - public transport 🚊 <br />
