@@ -1,4 +1,25 @@
-## Hi there 👋
+<h1 align="center"> 🇭🇺Üdvözöljük utasainkat! 🇬🇧Welcome onboard! </h1>
+<p align=center> my field of abandoned, half-abandoned and (rarely) active projects </p>
+
+<a><img width="430" align="right" alt="githubprofile" src="https://github.com/user-attachments/assets/8090f038-cce0-473b-bf9a-0df3a65b3a3b" /></a>
+### About me: <br />
+- absolute autism 🙌 <br />
+- queer af 🏳️‍🌈 <br />
+- bilingual 🇭🇺🇬🇧 <br />
+
+### Interested in: <br />
+- public transport 🚊 <br />
+- urban engineering 🏙️ <br />
+- retro tech 🖥️ <br />
+- coding using programming languages im somewhat proficient in ⌨️ <br />
+- gaming (cities: skylines, minecraft, recently hollow knight (i suck at it lmao)) 🎮 <br />
+
+### Hell nahs: <br />
+- hilson haters (ik its not canon but still) 🏳️‍🌈✅ <br />
+- car centrism 🚗🚫 <br />
+- ikarus haters 🚍✅ <br />
+- people who hate on nintendo games instead of the company (splatoon is 🔥) <br />
+
 
 <!--
 **the-cockmaster/the-cockmaster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
