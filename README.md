@@ -13,7 +13,7 @@
 - urban engineering 🏙️ <br />
 - retro tech 🖥️ <br />
 - coding using programming languages im somewhat proficient in ⌨️ <br />
-- gaming (cities: skylines, minecraft, recently hollow knight (i suck at it lmao)) 🎮 <br />
+- gaming (cities: skylines, minecraft, splatoon, recently hollow knight (i suck at it lmao)) 🎮 <br />
 
 ### Hell nahs: <br />
 - hilson haters (ik its not canon but still) 🏳️‍🌈✅ <br />
